@@ -1,0 +1,21 @@
+{
+  "name": "portfoliocod3r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\" \"cd core && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriellqv/portfolioCod3r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabriellqv/portfolioCod3r/issues"
+  },
+  "homepage": "https://github.com/Gabriellqv/portfolioCod3r#readme"
+}
